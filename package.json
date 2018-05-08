@@ -1,0 +1,12 @@
+{
+  "name": "dungeon-crawler",
+  "version": "1.0.0",
+  "description": "CS546 Final Project - Dungeon Crawler for Dungeons and Dragons",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christian Tejada, Philip Vitale, Kevin Poli",
+  "license": "ISC"
+}
